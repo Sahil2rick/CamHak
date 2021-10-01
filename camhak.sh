@@ -1,6 +1,5 @@
 #!/bin/bash
-# CamHak 1
-# Powered by SahilSaini
+
 
 
 trap 'printf "\n";stop' 2
@@ -281,3 +280,5 @@ banner
 dependencies
 camphish
 
+# CamHak 1
+# Powered by SahilSaini
